@@ -1,0 +1,19 @@
+# Data files
+*.csv
+*.tsv
+*.json
+*.xls
+*.xlsx
+*.sqlite
+
+# Temporary files
+*~
+.#*
+*.swp
+
+# Python-specific
+__pycache__/
+*.pyc
+
+# Jupyter Notebook-specific
+.ipynb_checkpoints/
