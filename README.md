@@ -25,21 +25,23 @@ Numpy
 
 Clone the repository
 
-bash
-
-Copy code
+```rb
 git clone https://github.com/your-username/your-repo-name.git
+```
 Install the required libraries
 
-Copy code
+```rb
 pip install pandas numpy xlrd
+```
 Launch Jupyter Notebook
 
-Copy code
+```rb
 jupyter notebook
+```
+
 Open *.ipynb in Jupyter Notebook and run the cells
 
-Future Work
+Future Work : 
 Develop a model to predict future carbon emissions
 Create a web application to track carbon footprints in real-time
 Author
